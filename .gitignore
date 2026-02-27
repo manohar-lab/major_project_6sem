@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+data/workload_data.csv
+data/performance_metrics.csv
