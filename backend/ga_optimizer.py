@@ -1,5 +1,5 @@
 import pygad
-from cost_model import calculate_cost
+from backend.cost_model import calculate_cost
 
 INSTANCE_CAPACITY = 70
 

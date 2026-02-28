@@ -1,4 +1,4 @@
-from cost_model import calculate_required_instances, calculate_cost
+from backend.cost_model import calculate_required_instances, calculate_cost
 
 
 def rule_based_scaling(predicted_cpu, predicted_memory):
